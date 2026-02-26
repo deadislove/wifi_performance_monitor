@@ -99,7 +99,7 @@ High Jitter was detected even with strong RSSI (-48 dBm).
 
 ### 👨‍💻 Author
 
-[Da-Wei Lin] - QA Automation Engineer focused on Wireless Networking and System Stability.
+[Da-Wei Lin](https://github.com/deadislove) - QA Automation Engineer focused on Wireless Networking and System Stability.
 
 ### 📝 Final Note for Git
 
